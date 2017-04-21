@@ -15,3 +15,7 @@ img {
 h2{
   text-align: center;
 }
+.dark{
+  font-weight: 900;
+  font-style: italic;
+}
