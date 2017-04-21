@@ -3,3 +3,17 @@ img {
     display: block;
     margin: auto;
 }
+#banner{
+  height: 300px;
+  text-align: center;
+  font-size: 300%;
+  padding-bottom: 0px;
+
+}
+h1{
+  font-size: 300%;
+}
+.container{
+  width: 1920px;
+  height: 1000px;
+}
