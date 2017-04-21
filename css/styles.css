@@ -1,19 +1,15 @@
 
-img {
+.img {
     display: block;
     margin: auto;
 }
-#banner{
-  height: 300px;
+.jumbotron{
   text-align: center;
-  font-size: 300%;
-  padding-bottom: 0px;
-
-}
-h1{
-  font-size: 300%;
+  font-family: cursive;
+  background-color: #80b3ff;
 }
 .container{
   width: 1920px;
   height: 1000px;
+  background-color: #b3b3cc;
 }
